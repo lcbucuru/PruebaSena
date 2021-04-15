@@ -1,0 +1,74 @@
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.exe
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.deps.json
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.runtimeconfig.json
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.runtimeconfig.dev.json
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.pdb
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.csprojAssemblyReference.cache
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.AssemblyInfoInputs.cache
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.AssemblyInfo.cs
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.csproj.CopyComplete
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.pdb
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.genruntimeconfig.cache
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Program Files (x86)\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.exe
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.deps.json
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.runtimeconfig.json
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.runtimeconfig.dev.json
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\BDentity588.pdb
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.csprojAssemblyReference.cache
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.AssemblyInfoInputs.cache
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.AssemblyInfo.cs
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.csproj.CoreCompileInputs.cache
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.csproj.CopyComplete
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.dll
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.pdb
+E:\Program Files\CStexsen\TRIMESTRE-2\BaseDatos\BDentity588\obj\Debug\netcoreapp3.1\BDentity588.genruntimeconfig.cache
